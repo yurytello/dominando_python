@@ -18,4 +18,4 @@ Esta playlist es una guía completa para aprender y aplicar Python en diversas �
 - Procesamiento de Lenguaje Natural (NLP): Analiza y comprende el lenguaje humano usando Python.
 - Visión por Computador (VC): Aprende a procesar y analizar imágenes mediante técnicas avanzadas.
 
-Esta lista es ideal tanto para principiantes como para desarrolladores experimentados que buscan profundizar en estas áreas especializadas. ¡Acompáñanos en este recorrido por el vasto mundo de la programación en Python!"
+Esta lista es ideal tanto para principiantes como para desarrolladores experimentados que buscan profundizar en estas áreas especializadas. ¡Acompáñanos en este recorrido por el vasto mundo de la programación en Python!
